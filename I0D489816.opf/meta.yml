@@ -7,6 +7,10 @@ last_modified: '2022-08-01T10:24:04.517852'
 parser: null
 source_metadata:
   title: ཐུན་མོང་གི་རྩ་བ།
+  base:
+    73CB:
+      title: ཐུན་མོང་གི་རྩ་བ།
+      base_file: 73CB.txt
 statistics: {}
 quality: {}
 copyright:
